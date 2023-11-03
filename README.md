@@ -6,6 +6,7 @@ Data for statistical-graphical analysis should be prepared so that:
 - first column of the data table contains unique identifiers of the entity
 - other columns contain the entity data in variables
 - modality labels of qualitative variables must not be numbers.
+  
 Data files can be created in:
 - Comma Separated Values (.csv) format,
 - Microsoft Excel Worksheet (.xlsx) format,
