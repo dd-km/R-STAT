@@ -33,7 +33,7 @@ library(fresh)
 library(datamods)
 library(waiter)
 
-# theme------------------
+# theme-------------
 boja   <- "#4472C4"
 tekst  <- "#9D9D9D"
 pravac <- "#C0504D"
